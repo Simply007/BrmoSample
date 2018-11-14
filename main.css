@@ -313,8 +313,8 @@ h1 {
   }
 }
 .map-content {
-  width: 110rem;
-  height: 70rem;
+  width: 880px;
+  height: 500px;
   position: absolute;
   right: 2rem;
   top: 8rem;
